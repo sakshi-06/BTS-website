@@ -1,0 +1,106 @@
+p {
+    margin-top: 70px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    margin: 10px;
+    padding: 10px;
+  }
+h1{
+      text-align: center;
+      padding-top: 30px;
+      padding-bottom: 30px;
+     letter-spacing: 10px;
+  }
+.about{
+     text-align: center;
+     font-family: 'Montserrat', sans-serif;
+     font-size: 20px;
+ }
+
+.image {
+    padding-top: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+h2{
+    font-family: 'oswald', sans-serif;
+    padding-left: inherit;
+    text-size-adjust: 500px;
+  }
+.container{
+    margin-top: 50px;
+   letter-spacing: 10px;
+    font-size: 25px;
+    padding: 18px;
+  }
+body, html {
+    height: 100%;
+  }
+.jin, .rm,.hobi, .suga, .jimin , .v , .jk{ /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+.rm {
+    /* The image used */
+    background-image: url("https://celebmix.com/wp-content/uploads/2018/03/will-bts-rm-be-releasing-a-new-mixtape-01.png");
+  
+    /* Full height */
+    height: 100%;}
+.jin{
+       /* The image used */
+    background-image: url("https://pbs.twimg.com/media/DEO7eyEUIAA5MB4.jpg");
+  
+    /* Full height */
+    height: 100%;}
+.hobi{  /* The image used */
+      background-image: url("https://data.whicdn.com/images/288005278/original.jpg");
+    
+      /* Full height */
+      height: 100%;}
+.suga { /* The image used */
+      background-image: url("https://pbs.twimg.com/media/EH7HdwKU8AAfUaK.jpg");
+    
+      /* Full height */
+      height: 100%;}
+.jimin{  /* The image used */
+        background-image: url("https://pbs.twimg.com/media/DEiB8qRVYAASeOP.jpg");
+      
+        /* Full height */
+        height: 100%;
+      width: auto;}
+.v{  /* The image used */
+          background-image: url("https://pbs.twimg.com/media/DBQSV8wVwAEfpCx.jpg");
+        
+          /* Full height */
+          height: 100%;}
+.jk{  /* The image used */
+            background-image: url("https://4.bp.blogspot.com/-Bbg2s1odeVY/VeSQB8DsAWI/AAAAAAAABVA/3Y67xchmrAU/s1600/%25EA%25B0%2580%25EA%25BC%25AC%25EC%259D%25B4%25EA%25BE%25B94cry.jpg");
+          
+            /* Full height */
+            height: 100%;}
+.caption {
+      position: absolute;
+      left: 0;
+      top: 50%;
+      width: 100%;
+      text-align: center;
+      color: #000;
+    }
+.caption span.border {
+      background-color: #111;
+      color: #fff;
+      padding: 18px;
+      font-size: 25px;
+      letter-spacing: 10px;
+    }
+li {
+      display: inline;
+      padding-right: 70px;
+    }
+  
+      
